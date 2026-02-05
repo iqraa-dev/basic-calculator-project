@@ -1,1 +1,1 @@
-# basic-calculator-project
+# Basic Calculator Project
